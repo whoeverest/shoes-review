@@ -2,11 +2,11 @@
 
   (general
     (links 199)
-    (no_connects 189)
+    (no_connects 196)
     (area 0 0 0 0)
     (thickness 1.6)
     (drawings 0)
-    (tracks 11)
+    (tracks 3)
     (zones 0)
     (modules 101)
     (nets 7)
@@ -3153,14 +3153,6 @@
     (pad "" smd rect (at -3.79984 -1.4478) (size 1.79578 1.89738) (layers F.Cu F.Paste F.Mask))
   )
 
-  (segment (start 64.77 114.3) (end 64.77 107.95) (width 0.8) (layer B.Cu) (net 1) (status 400000))
-  (segment (start 64.77 107.95) (end 64.77 106.68) (width 0.8) (layer B.Cu) (net 1) (tstamp 56901D93) (status 800000))
-  (segment (start 57.15 106.68) (end 57.15 114.3) (width 0.8) (layer B.Cu) (net 1) (status C00000))
-  (segment (start 57.15 99.06) (end 57.15 106.68) (width 0.8) (layer B.Cu) (net 1) (status C00000))
-  (segment (start 57.15 91.44) (end 57.15 99.06) (width 0.8) (layer B.Cu) (net 1) (status C00000))
-  (segment (start 57.15 83.82) (end 57.15 91.44) (width 0.8) (layer B.Cu) (net 1) (status C00000))
-  (segment (start 57.15 76.2) (end 57.15 83.82) (width 0.8) (layer B.Cu) (net 1) (status C00000))
-  (segment (start 57.15 68.58) (end 57.15 76.2) (width 0.8) (layer B.Cu) (net 1) (status C00000))
   (segment (start 57.15 60.96) (end 57.15 68.58) (width 0.8) (layer B.Cu) (net 1))
   (segment (start 57.15 53.34) (end 57.15 60.96) (width 0.8) (layer B.Cu) (net 1))
   (segment (start 57.15 45.72) (end 57.15 53.34) (width 0.8) (layer B.Cu) (net 1))
